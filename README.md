@@ -14,7 +14,7 @@
 <ul>
 <li><p>下载安装 PP助手（<a href="https://pro.25pp.com/pp_win_iosandroid">pro.25pp.com</a>）</p></li>
 <li><p>连接手机在PP助手中搜索 <code>Shadowrocket</code> 并安装</p></li>
-<li><p>如果搜索不到Shadowrocket 那么表示下架了，直接下载 <a href="https://www.vuess.me/ssr-download/Shadowrocket-2.1.10-PP.ipa">Shadowrocket.ipa</a> 导入到<strong>下载管理</strong>中安装</p></li>
+<li><p>如果搜索不到Shadowrocket 那么表示下架了，直接点击下载 <a href="https://www.vuess.me/ssr-download/Shadowrocket-2.1.10-PP.ipa">Shadowrocket.ipa</a> 导入到<strong>下载管理</strong>中安装</p></li>
 </ul>
 
 
